@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PlanetExpressUi/static/css/main.f855e6bc.css",
+    "main.js": "/PlanetExpressUi/static/js/main.81ec277f.js",
+    "static/js/787.1e83dcc9.chunk.js": "/PlanetExpressUi/static/js/787.1e83dcc9.chunk.js",
+    "static/media/migration.jpg": "/PlanetExpressUi/static/media/migration.b526041c72d4534716c3.jpg",
+    "index.html": "/PlanetExpressUi/index.html",
+    "main.f855e6bc.css.map": "/PlanetExpressUi/static/css/main.f855e6bc.css.map",
+    "main.81ec277f.js.map": "/PlanetExpressUi/static/js/main.81ec277f.js.map",
+    "787.1e83dcc9.chunk.js.map": "/PlanetExpressUi/static/js/787.1e83dcc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.81ec277f.js"
+  ]
+}
